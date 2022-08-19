@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+    background-color: #262626;
+    margin-top: 18%
+}
+
+.timer {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+button { 
+    height: 2.5em;
+    width: 5em;
+    border: none;
+    font-weight: bold;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: #27ae60;
+}
+
+.pause-btn {
+    background-color: #f1c40f;
+}
+
+.stop-btn {
+    background-color: #c0392b;
+}
